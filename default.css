@@ -64,6 +64,8 @@ h6{font-size: 16px;}
 .main-container{
 	width: 1000px;
 	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
 }
 
 .greeting-wrap{
